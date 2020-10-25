@@ -4,3 +4,4 @@ flask-Script
 WTForms
 flask-PyMongo
 gunicorn
+dnspython
