@@ -1,6 +1,6 @@
-Flask
-Flask-Login
-Flask-Script
+flask
+flask-Login
+flask-Script
 WTForms
-Flask-PyMongo
+flask-PyMongo
 gunicorn
