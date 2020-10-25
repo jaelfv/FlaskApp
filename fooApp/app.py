@@ -14,7 +14,7 @@ import json
 app = Flask(__name__)
 
 app.config['MONGO_DBNAME'] = 'foodb'
-app.config['MONGO_URI'] = 'mongodb+srv://user0:Password0@cluster0.upgf0.mongodb.net/Master?retryWrites=true'
+app.config['MONGO_URI'] = 'mongodb+srv://user0:Password0@cluster0.upgf0.mongodb.net/foodb'
 #cluster0.upgf0.mongodb.net/Master?retryWrites=true
 #cluster0.upgf0.mongodb.net/
 
